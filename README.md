@@ -3,9 +3,8 @@ Circuitos RC y Circuitos RL
 ### 1. OBJETIVOS
 
 **Principales**
-- Analizar las propiedades que tiene el inductor al paso de corriente directa.
-- Desarrollar el uso de instrumentos de medición para la corriente alterna.
-- Explicar el uso de la inductancia mutua
+- Usar números complejos para expresar cantidades fasoriales
+- Determinar impedancia y admitancia en un circuito RC y RL
 
 
 **Específicos**
