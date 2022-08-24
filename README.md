@@ -16,7 +16,7 @@ Circuitos RC y Circuitos RL
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
 
 ### 2. MARCO TEORICO
-![](https://imgv2-2-f.scribdassets.com/img/document/157374349/original/6e481f05f4/1658537273?v=1)
+![](https://innovacionumh.es/Proyectos/P_19/Tema_3/images/pic236.jpg)
 ![](https://cmapspublic.ihmc.us/rid=1GM7BQ67R-1DBTVC3-PPP/MAPA%20CONCEPTUAL%20TRANSFORMADOR1.cmap?rid=1GM7BQ67R-1DBTVC3-PPP&partName=htmljpeg)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
